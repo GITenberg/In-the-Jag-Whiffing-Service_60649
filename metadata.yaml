@@ -1,5 +1,8 @@
 _repo: In-the-Jag-Whiffing-Service_60649
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60649-h/images/cover.jpg
 creator:
   author:
     agent_name: Bunch, David R.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51070
     wikipedia: https://en.wikipedia.org/wiki/David_R._Bunch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60649#In-the-Jag-Whiffing-Service
 gutenberg_issued: '2019-11-08'
 gutenberg_type: Text
 identifiers:
